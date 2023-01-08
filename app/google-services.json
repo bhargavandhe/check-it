@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700830004486",
+    "project_id": "check-it-1f686",
+    "storage_bucket": "check-it-1f686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700830004486:android:5177fa4926791c0d6ada87",
+        "android_client_info": {
+          "package_name": "com.bhargav.checkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700830004486-5gsu1rbj1iks2isibr6ug0hhur6g251n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvT6hqzN1XcENfQSf3HqbuyJ2Ey1hqBsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700830004486-5gsu1rbj1iks2isibr6ug0hhur6g251n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
